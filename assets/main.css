@@ -33,10 +33,14 @@ body{
     font-family:'Roboto',sans-serif;
     font-size:1em;
     line-height:1.5em;
-    margin: 60px auto;
+    margin-left: auto;
+    margin-right: auto;
     width: 1000px;
 }
 
+bannerimage{
+    margin:0;
+}
 a{color: #b8860b; text-decoration:none;}
 a.current{color: #52739e;}
 a.current:hover{color: #e82945;}
