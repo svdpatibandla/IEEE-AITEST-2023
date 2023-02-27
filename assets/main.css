@@ -39,7 +39,7 @@ body{
 }
 
 bannerimage{
-    margin:0;
+    margin: 60px auto;
 }
 a{color: #b8860b; text-decoration:none;}
 a.current{color: #52739e;}
