@@ -155,3 +155,12 @@ footer{font-size:0.875em; margin-top:12em; text-align:center;}
     background-color: #04AA6D;
     color: white;
   }
+
+  .button {
+    background-color:  #16bfd5;
+    text-align: center; 
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 2.0em;
+    color: #f0f5f7;
+  }
