@@ -157,10 +157,13 @@ footer{font-size:0.875em; margin-top:12em; text-align:center;}
   }
 
   .button {
-    background-color:  #16bfd5;
+    background-color:  #06b6ec;
     text-align: center; 
     padding: 10px;
     border-radius: 10px;
     font-size: 2.0em;
     color: #f0f5f7;
+    margin: 30px auto;
+    height:30px;
+    width:200px;
   }
